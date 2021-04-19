@@ -1,0 +1,44 @@
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding:15px;
+    background: color #ec7585;;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(105, 241, 241);
+}
+
+.bodyimg{
+  
+    font-size: 15px;
+    color: rgb(87, 9, 9);
+}
+body{
+    margin:0px;
+    background-color:#fce8f7;
+    
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: sans-serif;
+    justify-content: space-between;
+}
+.grid img{
+    border: 2px solid #88ee85;
+    border-radius: 50px;
+}
+.origami {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 30px;
+    border-radius: 20px;
+    background-color:#e96c9c;
+    
+    width:310px;
+    font-family: fantasy;
+    
+}
+
